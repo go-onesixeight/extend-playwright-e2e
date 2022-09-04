@@ -1,0 +1,31 @@
+{
+  "name": "extend-playwright-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qahive/extend-playwright-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qahive/extend-playwright-e2e/issues"
+  },
+  "homepage": "https://github.com/qahive/extend-playwright-e2e#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1",
+    "moment": "^2.29.4",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-only-warn": "^1.0.2",
+    "eslint-plugin-prettier": "^4.0.0"
+  }
+}

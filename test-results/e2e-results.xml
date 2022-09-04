@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="12.4565">
+<testsuite name="picking.spec.ts" timestamp="1662027683216" hostname="" tests="1" failures="0" skipped="0" time="10.572" errors="0">
+<testcase name="Staff should see task detail with correct item information" classname="[chromium] › picking.spec.ts:34:1 › Staff should see task detail with correct item information" time="10.572">
+</testcase>
+</testsuite>
+</testsuites>
